@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is Benn File2.txt
+=======
+HI this is Anne file2.txt!
+>>>>>>> 6b1c1f331e561ee03f766385e69c0bea777a682b
