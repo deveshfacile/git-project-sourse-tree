@@ -7,3 +7,4 @@ My name is Anne!
 
 
 editing Anne file1
+This is second line in this file
