@@ -1,2 +1,6 @@
 Hello
+<<<<<<< HEAD
 My name is Benn. #another file
+=======
+My name is Anne!
+>>>>>>> 48263d789fd8f34c7ee64f42d7c1571fdfbe98a2
