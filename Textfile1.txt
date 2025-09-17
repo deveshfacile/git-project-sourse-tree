@@ -7,4 +7,8 @@ My name is Anne!
 
 
 editing Anne file1
+<<<<<<< Updated upstream
 This is second line in this file
+=======
+this is something bug
+>>>>>>> Stashed changes
